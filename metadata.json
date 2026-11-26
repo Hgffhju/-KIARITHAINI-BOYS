@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kiarithaini Boys High School Portal",
+  "description": "Official school web portal for Kiarithaini Boys High School featuring Lipa na M-Pesa payment guides, E-Library, Parent Portal with live STK Push simulation, Bursar ledger, and stamped receipt generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
